@@ -1,4 +1,4 @@
-juju-client
+macumba.js
 ===========
 
 Juju API client module written in javascript.
