@@ -1,0 +1,24 @@
+{
+  "name": "macumba.js",
+  "version": "0.0.1",
+  "description": "Juju API client module written in javascript.",
+  "main": "index.js",
+  "dependencies": {
+    "q": "^1.0.1",
+    "require-all": "0.0.8",
+    "websocket": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TallerWebSolutions/macumba.js"
+  },
+  "bugs": {
+    "url": "https://github.com/TallerWebSolutions/macumba.js/issues"
+  },
+  "homepage": "https://github.com/TallerWebSolutions/macumba.js"
+}
